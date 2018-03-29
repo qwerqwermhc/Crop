@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "@ionic-native/crop@4.5.2",
+      "/Users/mahaichao/Desktop/project/QC_App"
+    ]
+  ],
+  "_from": "@ionic-native/crop@4.5.2",
+  "_id": "@ionic-native/crop@4.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-vI0lZj7QoGFpklSCyZkwNgTNJAelCeX1hBXHcwhmD1dXcPaXJnGt1HUgv5RVF+8o8AXhfEP+jDCzycSi03DLJA==",
+  "_location": "/@ionic-native/crop",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ionic-native/crop@4.5.2",
+    "name": "@ionic-native/crop",
+    "escapedName": "@ionic-native%2fcrop",
+    "scope": "@ionic-native",
+    "rawSpec": "4.5.2",
+    "saveSpec": null,
+    "fetchSpec": "4.5.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native/crop/-/crop-4.5.2.tgz",
+  "_spec": "4.5.2",
+  "_where": "/Users/mahaichao/Desktop/project/QC_App",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/crop",
+  "peerDependencies": {
+    "@ionic-native/core": "^4.2.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "4.5.2"
+}
