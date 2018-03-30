@@ -126,3 +126,5 @@ export class CameraService {
  * Android: [android-crop](https://github.com/qwerqwermhc/Crop/tree/master/cordova-plugin-crop/src/android)
 
 
+I just made a little change on the * official website:(https://github.com/jeduan/cordova-plugin-crops)
+
